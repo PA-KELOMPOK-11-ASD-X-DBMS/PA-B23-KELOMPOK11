@@ -6,7 +6,9 @@ Anggota Kelompok :
 * Fajar Syafatoni Raihanadif (2309116060)
 * Ahmad Nuralfansyah (2309116090)
 * Muhammad Zakky Atsal Ferlian Ramdanie (2309116096)
+  
 # 📝Deskripsi Program
+
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/98721112/b598f319-0975-4c5d-b05f-121acb3c3c57)
 
 * Berikut ini adalah project program kelompok kami dengan tema ***Life Below Water*** dari **SDGs _(Sustainable Development Goals)_** atau bisa kita sebut **TPB _(Tujuan Pembangunan Berkelanjutan)_**. Tujuan dari program kami yaitu untuk mewujudkan salah satu tujuan dari program SDGs poin ke-14 itu sendiri, yaitu untuk menjaga kesehatan ekosistem laut,baik dari masalah yang disebabkan oleh manusia maupun alam itu sendiri. Lebih jelasnya, program ini dibuat untuk mengontrol dan mengawasi ancaman dan kerusakan terhadap ekosistem laut setempat.
@@ -19,32 +21,8 @@ Selain primary key, di entitas **"Masyarakat"** terdapat atribut ***"nama_lengka
 
 
 
-## 📝📌 Struktur Project
-- Database Connection Module: Berisi kode untuk menghubungkan ke database MySQL.
-- Data Structures Module: Berisi definisi dari kelas Node dan LinkedList untuk representasi linked list serta fungsi sorting dan searching.
-- Display Module: Berisi metode-metode untuk menampilkan data ke dalam tabel menggunakan PrettyTable.
-- Main Program Module: Berisi logika utama program, termasuk interaksi dengan pengguna dan penggunaan modul-modul sebelumnya.
-- models/: Modul yang berisi definisi model-model data yang digunakan dalam program.
--admin.py: File yang berisi definisi model untuk data admin.
--perkotaan.py: File yang berisi definisi model untuk data perkotaan.
--pemukiman.py: File yang berisi definisi model untuk data pemukiman.
--proyek.py: File yang berisi definisi model untuk data proyek.
--Direktori admin: Mengelola operasi-admin terkait pengelolaan data admin.
--admin.py: Berisi fungsi-fungsi yang terkait dengan admin.
--admin_utils.py: Berisi utilitas yang dapat digunakan dalam modul admin.
--Direktori perkotaan: Mengelola operasi terkait dengan data perkotaan.
--perkotaan.py: Berisi fungsi-fungsi yang terkait dengan data perkotaan.
--perkotaan_utils.py: Berisi utilitas yang dapat digunakan dalam modul perkotaan.
--Direktori pemukiman: Mengelola operasi terkait dengan data pemukiman.
--pemukiman.py: Berisi fungsi-fungsi yang terkait dengan data pemukiman.
--pemukiman_utils.py: Berisi utilitas yang dapat digunakan dalam modul pemukiman.
--Direktori proyek: Mengelola operasi terkait dengan data proyek.
--proyek.py: Berisi fungsi-fungsi yang terkait dengan data proyek.
--proyek_utils.py: Berisi utilitas yang dapat digunakan dalam modul proyek.
--Direktori utils: Berisi utilitas yang digunakan secara umum.
--database.py: Berisi fungsi-fungsi untuk berinteraksi dengan database.
--input_validation.py: Berisi fungsi-fungsi untuk memvalidasi input pengguna.
--Direktori authentication: Ini adalah direktori yang mengelola proses otentikasi pengguna.
--login.py: Berisi kelas Login dan metode-metodenya untuk registrasi dan login pengguna.
--Direktori database: Ini adalah direktori yang mengelola koneksi dan operasi terkait database.
+## 📝📌 Struktur Program Project
+
+![Sea Threat Damage drawio](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/98721112/bdf4f5ce-7f3d-4613-b1fa-b8b57ccfdea2)
+
 -database_utils.py: Berisi fungsi-fungsi untuk berinteraksi dengan database, seperti menjalankan kueri dan mengambil data.
