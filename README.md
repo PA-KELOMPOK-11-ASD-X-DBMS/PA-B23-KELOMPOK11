@@ -25,4 +25,4 @@ Selain primary key, di entitas **"Masyarakat"** terdapat atribut ***"nama_lengka
 
 ![Sea Threat Damage drawio](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/98721112/bdf4f5ce-7f3d-4613-b1fa-b8b57ccfdea2)
 
--database_utils.py: Berisi fungsi-fungsi untuk berinteraksi dengan database, seperti menjalankan kueri dan mengambil data.
+
