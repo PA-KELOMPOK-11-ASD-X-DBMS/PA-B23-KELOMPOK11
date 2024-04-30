@@ -4,7 +4,7 @@
 - [ ADMIN. ](#admin)
 
 <a name="awal"></a>
-## MENU AWAL
+## 🌟 MENU AWAL
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/98721112/78b4cb2d-253f-49f4-8661-e3f0564cfeea)
 
@@ -13,7 +13,7 @@
   - Opsi kedua digunakan untuk registrasi pengguna baru agar dapat login menggunakan akun yang akan dibuat dan mengakses aplikasi.
     
 <a name="user"></a>  
-## USER
+## 🌟 USER
 
 ### 📌 Cara Registrasi
 
@@ -119,7 +119,7 @@ Setelah melihat, anda juga dapat melakukan sort ( pengurutan ) dan searching ( p
 - Jika anda sudah selesai maka anda dapat kembali ke menu login dengan keluar / logout.
 
 <a name="admin"></a>
-## ADMIN
+## 🌟 ADMIN
 
 Jika ingin masuk sebagai Admin maka kita hanya perlu memasukkan akun admin yang sduah terdaftar di database, akun admin hanya dapat dibuat di database, jadi tidak semua orang dapat menjadi admin
 
