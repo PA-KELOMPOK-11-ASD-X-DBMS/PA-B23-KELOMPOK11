@@ -20,4 +20,5 @@ Selain primary key, di entitas **"Masyarakat"** terdapat atribut ***"nama_lengka
 
 
 # 📝📌 Struktur Project
-![Sea Threat Damage drawio](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144907524/acdf7556-c4e8-47d2-b04b-4e56bd41b65d)
+
+![Sea Threat Damage drawio (1)](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/4eaf01df-9075-4517-a196-f1e65cf55454)
