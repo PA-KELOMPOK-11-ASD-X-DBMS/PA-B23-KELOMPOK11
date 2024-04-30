@@ -64,34 +64,56 @@ Setelah melihat, anda juga dapat melakukan sort ( pengurutan ) dan searching ( p
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/f6bb0450-9f8f-4d9b-8707-f115bfbd1169)
 
-
+- Ketikkan search, lalu pilih berdasarkan lokasi, dan terakhir ketikkan lokasi yang anda ingin cari data kerusakannya.
+  
 #### 2. Lihat Diagram Data
+
    ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/28316ad4-d6f4-45e8-8693-39f04f5db80c)
-Disini User Dapat Melihat Diagram dari Data Kerusakan yang sudah terkonfirmasi, ada tiga diagram yang dapat dipilih yang pertama ada diagram Batang, Pie, dan Garis Berikut Contohnya
+   
+- Pilihlah opsi ke-2 di menu utama.
+- Disini anda dapat melihat diagram dari data kerusakan yang sudah terkonfirmasi, ada tiga diagram yang dapat dilihat yaitu diagram batang, pie, dan garis, berikut contohnya :
 
-A. Diagram Batang
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/f1119e33-1907-48d1-8ced-3c570472e16f)
+##### A. Diagram Batang
 
-B. Diagram Pie
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/edbebc32-2b07-4b95-a54d-05239c81bdf1)
+<img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/f1119e33-1907-48d1-8ced-3c570472e16f" width="600" height="420">
 
-C. Diagram Garis
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/62ccd9e9-d478-496b-b105-6be572c0fde4)
+- Pilih opsi ke-1 untuk melihat data kerusakan dalam bentuk diagram batang.
 
-3. Buat Aduan
-   ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/f3b5e607-5b52-47df-8aec-9a395ca42540)
-Disini User dapat membuat aduan caranya cukup mudah yaitu dengan menyertakan Lokasi kerusakan serta deskripsi singkat tentang kerusakan di lokasi tersebut
+##### B. Diagram Pie
 
-4. Informasi Akun
+<img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/edbebc32-2b07-4b95-a54d-05239c81bdf1" width="600" height="420">
+
+- Pilih opsi ke-2 untuk melihat data kerusakan dalam bentuk diagram pie.
+  
+##### C. Diagram Garis
+
+<img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/62ccd9e9-d478-496b-b105-6be572c0fde4" width="600" height="420">
+
+- Pilih opsi ke-3 untuk melihat data kerusakan dalam bentuk diagram garis.
+
+#### 3. Buat Aduan
+
+<img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/f3b5e607-5b52-47df-8aec-9a395ca42540" width="700" height="250">
+
+- Pilih opsi ke-3 di menu utama.   
+- Disini anda dapat membuat aduan, caranya cukup mudah yaitu dengan menyertakan lokasi kerusakan serta deskripsi singkat tentang kerusakan di lokasi tersebut
+
+#### 4. Informasi Akun
+
    ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/2f866eb9-0c6e-45f1-b9a6-03dcfc775ba1)
-Disini User dapat melihat Informasi akun  seperti NIK, No.HP, Alamat, dan Nama. User juga dapat Mengupdate data mereka berikut contohnya
 
-A. Edit Akun
+- Pilih opsi ke-4 di menu utama. 
+- Anda dapat melihat informasi akun  seperti NIK, no.HP, alamat, dan nama sesuai yang anda isi pada saat registrasi. Anda juga dapat mengupdate data informasi akun anda, berikut contohnya :
+
+##### A. Edit Akun
+
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/c75ae241-cebf-4bb1-9d82-36af2a5cc528)
 
-5. Keluar
+#### 5. Keluar
+   
    ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/8202c70e-c3d2-42da-ab3d-dc98fef5ad0a)
-Jika User sduah selesai maka User dapat kembali ke menu login.
+   
+Jika User sudah selesai maka User dapat kembali ke menu login.
    
 ## ADMIN
 
