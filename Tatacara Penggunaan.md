@@ -17,10 +17,9 @@
 ## USER
 
 ### Cara Registrasi
+<img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/786f81d6-3d3a-42d5-973c-4e41bdd73116" width="450" height="300">
 
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/786f81d6-3d3a-42d5-973c-4e41bdd73116)
-
-**Registrasi** : Anda dapat membuat akun terlebih dahulu dengan memilih opsi menu ke-2 untuk registrasi dengan memasukkan nomor KTP atau NIK yang nantinya akan digunakan sebagai password, nama lengkap , alamat rumah, dan nomor handphone. Apabila output menunjukkan "Akun masyarakat berhasil dibuat.", maka akun yang anda buat sudah terdaftar di dalam aplikasi.
+- **Registrasi** : Anda dapat membuat akun terlebih dahulu dengan memilih opsi menu ke-2 untuk registrasi dengan memasukkan nomor KTP atau NIK yang nantinya akan digunakan sebagai password, nama lengkap , alamat rumah, dan nomor handphone. Apabila output menunjukkan "Akun masyarakat berhasil dibuat.", maka akun yang anda buat sudah terdaftar di dalam aplikasi.
 
 ### Login 
 
