@@ -1,8 +1,7 @@
 # Tata Cara Penggunaan Program
 - [ MENU AWAL. ](#awal)
 - [ USER. ](#user)
--
--
+- [ ADMIN. ](#admin)
 
 <a name="awal"></a>
 ## MENU AWAL
@@ -109,18 +108,25 @@ Setelah melihat, anda juga dapat melakukan sort ( pengurutan ) dan searching ( p
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/c75ae241-cebf-4bb1-9d82-36af2a5cc528)
 
+- Pilih opsi edit informasi akun.
+- Anda dapat memasukkan alamat maupun no.handphone yang baru.
+
+
 #### 5. Keluar
    
    ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/8202c70e-c3d2-42da-ab3d-dc98fef5ad0a)
    
-Jika User sudah selesai maka User dapat kembali ke menu login.
-   
+- Jika anda sudah selesai maka anda dapat kembali ke menu login dengan keluar / logout.
+
+<a name="admin"></a>
 ## ADMIN
 
 Jika Ingin masuk sebagai Admin maka kita hanya perlu memasukkan akun admin yang sduah terdaftar di database, akun admin hanya dapat dibuat di database, jadi tidak semua orang dapat menjadi admin
 
 Berikut Gambaran Login Sebagai Admin
+
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/340a92f8-7918-431f-860b-f2f33ca83ace)
+
 Setelah Login maka akan ditampilkan Menu Admin sebagai berikut
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/45c368b2-969a-4862-a61c-668740328010)
