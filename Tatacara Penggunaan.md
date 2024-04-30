@@ -88,8 +88,48 @@ Setelah Login maka akan ditampilkan Menu Admin sebagai berikut
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/45c368b2-969a-4862-a61c-668740328010)
 
+1. Mengurus Data Kerusakan
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/dffe6593-989d-47f2-a90c-e72fd2a7694c)
+Admin dapat mengurus data kerusakan yang telah terdata seperti melihat, mencari, menghapus, dan mengupdate data kerusakan yang ada berikut contohnya
+
+A. Lihat Data Kerusakan
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/24d4958b-cf74-40cf-bbfb-f1cf76b38437)
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/244b9d3f-cae5-46ad-a22b-01c3a2492940)
+
+Admin juga dapat mengguanakn fitur Sort berdasarkan Lokasi atau Tanggal dan Search berdasaarkan ID, Lokasi, dan Tanggal berikut contohnya
+
+Sort Berdasarkankan Lokasi
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/5658ce2c-d3e3-44c8-a0e5-dcc566b8489b)
+
+Sort Berdasarkan Tanggal
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/dd8a7d61-f696-46b9-aadf-3de8d92d4fd1)
+
+Search Berdasarkan ID
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/1558c31e-519a-4994-9b02-4956ccebde73)
+
+Search Berdasarkan Lokasi
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/563e61f2-7c28-4588-a49b-f11a15ea6fcc)
+
+Search Berdasarkan Tanggal
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/033e4dc6-27bd-437f-9072-79bc30b0db74)
+
+B. Menghapus Data Kerusakan
+Admin cukup memasukkan ID Data Kerusakan yang ingin dihapus, setelah itu akan muncul hasilnya seperti ini
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/fb98a42e-4014-4edf-b33d-fded9efcf458)
+
+ID yang dipilih pun langsung terhapus
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/dfbc75ba-038e-45f7-b79b-cd0feeec68a1)
+
+C. Update Data Kerusakan
+Disini Admin dapat mengupdate Data Kerusakan dengan memproses Data Aduan yang ada berikut contohnya
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/a56d265e-8d05-4b7b-8473-783503c69546)
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/f2e21803-2a58-4403-9679-6a90050ab5b8)
+Admin akan memproses Data Aduan dengan menambahkan Kategori, Deskripsi, serta Jumlah sesuai dengan kerusakan yang telah terjadi di lapangan, data aduan tadi pun akan langsung tertambah ke Data Kerusakan
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/540d3586-9303-4227-abcd-1a2c3b852d36)
 
 
+D. Kembali ke Menu Admin
+Jika Admin sudah selesai mengurus Data Kerusakan, Admin dapat kembali ke menu Admin 
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/6a71f05b-a2d4-4b94-84ea-d7c2e68e88e8)
 
-
-
+2. Mengurus Data Aduan
