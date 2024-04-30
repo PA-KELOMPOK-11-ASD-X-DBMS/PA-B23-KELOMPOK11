@@ -133,3 +133,29 @@ Jika Admin sudah selesai mengurus Data Kerusakan, Admin dapat kembali ke menu Ad
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/6a71f05b-a2d4-4b94-84ea-d7c2e68e88e8)
 
 2. Mengurus Data Aduan
+Berikut Menu Admin Data Aduan
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/9aaa4972-36bd-4252-8de6-d76dfa25dcbd)
+
+A. Lihat Data Aduan
+Admin dapat melihat Data Aduan serta dapat men Sort berdasarkan Tanggal dan Lokasi serta Search berdasarkan ID dan Lokasi sama Seperti Lihat Data Kerusakan
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/e840cd0f-5d9e-49b3-884a-34442306c053)
+
+B.  Hapus Aduan
+Admin dapat menghapus Aduan yang tidak sesuai dengan cara memasukkan ID seperi berikut
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/67ce805f-3093-44d9-94d3-b1f6ffb93a28)
+dan ini setelah dihapus
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/b988677f-ed3e-4344-8ee7-4c5922daf546)
+
+C. Kembali ke Menu Admin
+Setelah Admin selesai mengurus Data Aduan Admin dapat kembali ke Menu Admin
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/526b3ad0-d66b-4d19-a45e-5c6acf7a7083)
+
+3. Mengurus Data Masyarakat
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/0753f896-7ced-41b3-b2b4-19bb124fce23)
+
+Admin dapat melihat ID/NIK, No.HP, Alamat, serta Nama Masyarakat. Admin juga dapat melihat apakah masyarakat tersebut sudah membuat aduan atau belum dengan cara mencari masyarakat secara Spesifik berdasarkan ID seperti Contoh dibawah ini
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/bb02dd5a-5b7e-4d45-9c74-80937d29bb6c)
+
+4. Keluar
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/24046961-a5f0-44f2-b5eb-5c973535c4a5)
+Admin dapat keluar ke menu login jika sudah tidak ada lagi Data yang Admin ingin urus
