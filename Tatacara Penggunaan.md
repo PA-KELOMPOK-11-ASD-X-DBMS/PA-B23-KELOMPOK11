@@ -17,6 +17,7 @@
 ## USER
 
 ### 📌 Cara Registrasi
+
 <img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/786f81d6-3d3a-42d5-973c-4e41bdd73116" width="450" height="300">
 
 - **Registrasi** : Anda dapat membuat akun terlebih dahulu dengan memilih opsi menu ke-2 untuk registrasi dengan memasukkan nomor KTP atau NIK yang nantinya akan digunakan sebagai password, nama lengkap , alamat rumah, dan nomor handphone. Apabila output menunjukkan "Akun masyarakat berhasil dibuat.", maka akun yang anda buat sudah terdaftar di dalam aplikasi.
@@ -25,32 +26,46 @@
 
 <img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/a5ad3ca3-9a7d-4766-9f5c-80e6dc561a46" width="450" height="350">
 
-
-- Setelah anda membuat Akun anda dapat login menggunakan akun yang anda sudah buat dengan memasukkan NIK atau nomor KTP sebagai password dan nama lengkap sesuai yang anda isi saat registrasi, setelah login maka anda akan diarahkan ke Menu Masyarakat seperti dibawah ini ⬇
+- Setelah anda membuat Akun anda dapat login menggunakan akun yang anda sudah buat dengan memasukkan NIK atau nomor KTP sebagai password dan nama lengkap sesuai yang anda isi saat registrasi, setelah login maka anda akan diarahkan ke Menu Masyarakat seperti dibawah ini. ⬇
 
 ### 📌 Menu Masyarakat
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/71158432-0e12-4554-969c-896988d16cf0)
 
-Di Menu Masyarakat Terdapat Banyak pilihan yag pertama
+<img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/71158432-0e12-4554-969c-896988d16cf0" width="400" height="200">
 
-1. Lihat Data Kerusakan
+Di menu masyarakat terdapat 5 opsi pilihan, yaitu :
+
+#### 1. Lihat Data Kerusakan
+
    ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/30dc2b71-59c4-4148-8cb8-74db33800104)
-setelah Melihat user juga dapat melakukan Sort dan Searching data seperti ini, Sort dapat menyortir Tanggal ataupun Abjad sedangkan Searching dapat mencari Data Kerusakan berdasarkan ID Data Kerusakan dan Lokasi, Berikut Contohnya
+   
+Setelah melihat, anda juga dapat melakukan sort ( pengurutan ) dan searching ( pencarian ) data, fitur sort dapat menyortir tanggal ataupun abjad sedangkan fitur searching dapat mencari data kerusakan berdasarkan ID Data kerusakan dan lokasi, kedua fitur tersebut menerapkan fungsi mereka dalam bentuk ascending, berikut contohnya :
 
-A. Sort berdasarkan Lokasi (Lokasi diurutkan berdasarkan abjad dari atas hingga bawah)
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/ac1249ca-94a6-452c-8f2d-7872045d68fb)
+#####  A. Sort berdasarkan Lokasi (Lokasi diurutkan berdasarkan abjad dari atas hingga bawah)
 
-B. Sort berdasarkan tanggal
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/072b9a48-f5dd-4323-b014-fa714a7183a5)
+  ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/ac1249ca-94a6-452c-8f2d-7872045d68fb)
 
-C. Search Berdasarkan ID
+  - Ketikkan sort, lalu pilih berdasarkan lokasi.
+
+#####  B. Sort berdasarkan tanggal
+
+  ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/072b9a48-f5dd-4323-b014-fa714a7183a5)
+
+  - Ketikkan sort, lalu pilih berdasarkan tanggal.
+
+
+##### C. Search Berdasarkan ID
+
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/f415aa9e-de0a-4830-a655-fc2c169a45c0)
 
-D. Search Berdasarkan Lokasi
+- Ketikkan search, lalu pilih berdasarkan ID, dan terakhir ketikkan ID yang anda ingin cari.
+
+
+##### D. Search Berdasarkan Lokasi
+
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/f6bb0450-9f8f-4d9b-8707-f115bfbd1169)
 
 
-2. Lihat Diagram Data
+#### 2. Lihat Diagram Data
    ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/28316ad4-d6f4-45e8-8693-39f04f5db80c)
 Disini User Dapat Melihat Diagram dari Data Kerusakan yang sudah terkonfirmasi, ada tiga diagram yang dapat dipilih yang pertama ada diagram Batang, Pie, dan Garis Berikut Contohnya
 
