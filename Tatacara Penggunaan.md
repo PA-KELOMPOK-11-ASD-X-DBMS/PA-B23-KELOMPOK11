@@ -16,18 +16,19 @@
 <a name="user"></a>  
 ## USER
 
-### Cara Registrasi
+### 📌 Cara Registrasi
 <img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/786f81d6-3d3a-42d5-973c-4e41bdd73116" width="450" height="300">
 
 - **Registrasi** : Anda dapat membuat akun terlebih dahulu dengan memilih opsi menu ke-2 untuk registrasi dengan memasukkan nomor KTP atau NIK yang nantinya akan digunakan sebagai password, nama lengkap , alamat rumah, dan nomor handphone. Apabila output menunjukkan "Akun masyarakat berhasil dibuat.", maka akun yang anda buat sudah terdaftar di dalam aplikasi.
 
-### Login 
+### 📌 Login 
 
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/a5ad3ca3-9a7d-4766-9f5c-80e6dc561a46)
+<img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/a5ad3ca3-9a7d-4766-9f5c-80e6dc561a46" width="450" height="350">
 
-Setelah anda membuat Akun anda dapat login menggunakan akun yang anda sudah buat, setelah login maka anda akan diarahkan ke Menu Masyarakat seperti dibawah ini
 
-### Menu Masyarakat
+- Setelah anda membuat Akun anda dapat login menggunakan akun yang anda sudah buat dengan memasukkan NIK atau nomor KTP sebagai password dan nama lengkap sesuai yang anda isi saat registrasi, setelah login maka anda akan diarahkan ke Menu Masyarakat seperti dibawah ini ⬇
+
+### 📌 Menu Masyarakat
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/71158432-0e12-4554-969c-896988d16cf0)
 
 Di Menu Masyarakat Terdapat Banyak pilihan yag pertama
