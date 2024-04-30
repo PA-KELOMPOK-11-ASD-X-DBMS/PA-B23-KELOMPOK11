@@ -78,6 +78,16 @@ A. Edit Akun
    ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/8202c70e-c3d2-42da-ab3d-dc98fef5ad0a)
 Jika User sduah selesai maka User dapat kembali ke menu login.
    
+## ADMIN
+
+Jika Ingin masuk sebagai Admin maka kita hanya perlu memasukkan akun admin yang sduah terdaftar di database, akun admin hanya dapat dibuat di database, jadi tidak semua orang dapat menjadi admin
+
+Berikut Gambaran Login Sebagai Admin
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/340a92f8-7918-431f-860b-f2f33ca83ace)
+Setelah Login maka akan ditampilkan Menu Admin sebagai berikut
+
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/45c368b2-969a-4862-a61c-668740328010)
+
 
 
 
