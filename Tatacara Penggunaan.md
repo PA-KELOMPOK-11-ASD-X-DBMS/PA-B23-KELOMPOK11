@@ -165,7 +165,7 @@ Search Berdasarkan Tanggal
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/033e4dc6-27bd-437f-9072-79bc30b0db74)
 
-B. Menghapus Data Kerusakan
+#### B. Menghapus Data Kerusakan
 
 Admin cukup memasukkan ID Data Kerusakan yang ingin dihapus, setelah itu akan muncul hasilnya seperti ini
 
@@ -175,7 +175,7 @@ ID yang dipilih pun langsung terhapus
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/dfbc75ba-038e-45f7-b79b-cd0feeec68a1)
 
-C. Update Data Kerusakan
+#### C. Update Data Kerusakan
 
 Disini Admin dapat mengupdate Data Kerusakan dengan memproses Data Aduan yang ada berikut contohnya
 
@@ -188,13 +188,13 @@ Admin akan memproses Data Aduan dengan menambahkan Kategori, Deskripsi, serta Ju
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/540d3586-9303-4227-abcd-1a2c3b852d36)
 
 
-D. Kembali ke Menu Admin
+#### D. Kembali ke Menu Admin
 
 Jika Admin sudah selesai mengurus Data Kerusakan, Admin dapat kembali ke menu Admin
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/6a71f05b-a2d4-4b94-84ea-d7c2e68e88e8)
 
-2. Mengurus Data Aduan
+### 2. Mengurus Data Aduan
    
 Berikut Menu Admin Data Aduan
 
@@ -205,7 +205,7 @@ Admin dapat melihat Data Aduan serta dapat men Sort berdasarkan Tanggal dan Loka
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/e840cd0f-5d9e-49b3-884a-34442306c053)
 
-B.  Hapus Aduan
+#### B.  Hapus Aduan
 
 Admin dapat menghapus Aduan yang tidak sesuai dengan cara memasukkan ID seperi berikut
 
@@ -215,22 +215,24 @@ dan ini setelah dihapus
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/b988677f-ed3e-4344-8ee7-4c5922daf546)
 
-C. Kembali ke Menu Admin
+#### C. Kembali ke Menu Admin
 
 Setelah Admin selesai mengurus Data Aduan Admin dapat kembali ke Menu Admin
 
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/526b3ad0-d66b-4d19-a45e-5c6acf7a7083)
 
-3. Mengurus Data Masyarakat
-   
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/0753f896-7ced-41b3-b2b4-19bb124fce23)
+#### 3. Mengurus Data Masyarakat
 
-Admin dapat melihat ID/NIK, No.HP, Alamat, serta Nama Masyarakat. Admin juga dapat melihat apakah masyarakat tersebut sudah membuat aduan atau belum dengan cara mencari masyarakat secara Spesifik berdasarkan ID seperti Contoh dibawah ini
+<img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/0753f896-7ced-41b3-b2b4-19bb124fce23" width="600" height="350">
 
-![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/bb02dd5a-5b7e-4d45-9c74-80937d29bb6c)
+- Admin dapat melihat ID/NIK, no.HP, alamat, serta nama Masyarakat. Admin juga dapat melihat apakah masyarakat tersebut sudah membuat aduan atau belum dengan cara mencari masyarakat secara spesifik berdasarkan ID seperti contoh dibawah ini ⬇
 
-4. Keluar
+<img src="https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/bb02dd5a-5b7e-4d45-9c74-80937d29bb6c" width="530" height="250">
+
+- Admin hanya perlu memasukkan NIK atau ID masyarakat untuk mengecek apakah masyarakat tersebut sudah membuat aduan atau belum.
+
+### 4. Keluar
    
 ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/24046961-a5f0-44f2-b5eb-5c973535c4a5)
 
-Admin dapat keluar ke menu login jika sudah tidak ada lagi Data yang Admin ingin urus
+Admin dapat keluar ke menu login jika sudah tidak ada lagi data yang ingin diurus.
