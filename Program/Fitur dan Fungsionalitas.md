@@ -33,6 +33,18 @@ def buat_koneksi():
     )
 ```
 
+Fungsi get_input(prompt) bertujuan untuk mendapatkan input dari pengguna dengan menampilkan pesan prompt. Saat pengguna memberikan input, fungsi akan mengembalikan nilai input tersebut. Jika terjadi KeyboardInterrupt (biasanya karena pengguna menekan Ctrl+C), pesan akan dicetak, dan proses input akan dibatalkan.
+```
+def get_input(prompt):
+    while True:
+        try:
+            user_input = input(prompt)
+            # Lakukan validasi atau pemrosesan tambahan di sini jika diperlukan
+            return user_input
+        except KeyboardInterrupt:
+            print("\nKeyboardInterrupt terdeteksi. Masukkan dibatalkan.")
+```
+
 
 Di kelas User, terdapat method __init__() yang digunakan sebagai constructor. Saat sebuah objek User dibuat, method ini akan dipanggil untuk menginisialisasi atribut-atribut objek, seperti nama_lengkap dan no_hp.
 ```
