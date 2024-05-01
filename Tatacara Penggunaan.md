@@ -35,7 +35,7 @@ Di menu masyarakat terdapat 5 opsi pilihan, yaitu :
 
 #### 1. Lihat Data Kerusakan
 
-   ![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/30dc2b71-59c4-4148-8cb8-74db33800104)
+![image](https://github.com/PA-KELOMPOK-11-ASD-X-DBMS/PA-B23-KELOMPOK11/assets/144713730/30dc2b71-59c4-4148-8cb8-74db33800104)
    
 Setelah melihat, anda juga dapat melakukan sort ( pengurutan ) dan searching ( pencarian ) data, fitur sort dapat menyortir tanggal ataupun abjad sedangkan fitur searching dapat mencari data kerusakan berdasarkan ID Data kerusakan dan lokasi, kedua fitur tersebut menerapkan fungsi mereka dalam bentuk ascending, berikut contohnya :
 
